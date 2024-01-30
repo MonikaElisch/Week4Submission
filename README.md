@@ -1,4 +1,4 @@
 # Week4Submission
-Replace main.dart inside lin folder
+Replace pubspec.yaml and main.dart
 
 put the asset folder into project folder
